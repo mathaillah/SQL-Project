@@ -8,3 +8,7 @@
 <br> Install SQL Express
 <br> Install SQL Server Management Studio
 </p>
+
+<p>Day 3
+<br> Learn SQL query
+</p>
