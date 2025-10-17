@@ -12,3 +12,8 @@
 <p>Day 3
 <br> Learn SQL query
 </p>
+
+<p>Day 4
+<br> DDL Theory
+</p>
+
